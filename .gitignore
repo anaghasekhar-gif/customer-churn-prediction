@@ -1,0 +1,15 @@
+# Python environment
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+
+# Data & Models (optional to ignore large binaries, but we track smaller artifacts)
+*.pkl
+
+# Logs & temp
+*.log
+.DS_Store
+Thumbs.db
